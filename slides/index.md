@@ -18,10 +18,31 @@
 ![This Is Fine](images/thisisfine.png)
 
 ***
+Quais os problemas?
+
+## Confiabilidade + Segurança
+
+***
+
+## Confiabilidade
+Meu código faz o que eu quero que ele faça
+
+***
+
+## Segurança
+Ausência de acidentes que causam prejuízos inesperados e inaceitáveis
+
+***
+
+E por que isso acontece???
+
+## Complexidade
+
+***
 
 Vamos começar a atacar essa complexidade num dos níveis mais fundamentais da programação:
 
-### Function Design
+## Function Design
 
 ***
 
@@ -30,20 +51,20 @@ Vamos começar a atacar essa complexidade num dos níveis mais fundamentais da p
 ***
 
 Primeiro tipo:
-## Traditional
+## Convencionais
 
 ```js
 const sum = (n, m) => n + m
 ```
 
-Parâmetros são o *input* e o retorno é o *output* da função.
+Os parâmetros são o *input* e o retorno é o *output* da função.
 
 E só.
 
 ***
 
 Segundo tipo:
-## Hidden
+## Escondidos
 
 ```js
 function processNext() {
