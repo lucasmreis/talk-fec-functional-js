@@ -558,6 +558,19 @@ Eu quero me beneficar das vantagens da programação funcional!
 
 ***
 
+Procure as libs:
+
+## RamdaJS
+## LodashFP
+
+Muitas funções genéricas já prontas!
+
+***
+
+### Procure frameworks que se harmonizam e estimulam um estilo funcional de código
+
+***
+
 - data-background : linear-gradient(to bottom right, #FF5E3A, #FF2A68)
 
 Continuando no mundo Javascript:
