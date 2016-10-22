@@ -683,9 +683,13 @@ https://github.com/lucasmreis
 
 ***
 
+<img src="images/trabalhe-conosco.png" alt="Trabalhe Conosco" style="width: 800px;"/>
+
+***
+
 Referências
 
-* Confiabilidade + Segurança: Nancy Leveson - https://mitpress.mit.edu/books/engineering-safer-world
-* Dois tipos de inputs e outputs: Kris Jenkins - http://blog.jenkster.com/2015/12/what-is-functional-programming.html
-* Difícil de entender, difícil de testar: Ben Moseley + Peter Marks - http://shaffner.us/cs/papers/tarpit.pdf
-* Isolar side-effects: Brian Lonsdorf + Joe Nelson - https://frontendmasters.com/courses/functional-javascript/
+* Confiabilidade + Segurança: **Nancy Leveson** - https://mitpress.mit.edu/books/engineering-safer-world
+* Dois tipos de inputs e outputs: **Kris Jenkins** - http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+* Difícil de entender, difícil de testar: **Ben Moseley + Peter Marks** - http://shaffner.us/cs/papers/tarpit.pdf
+* Isolar side-effects: **Brian Lonsdorf + Joe Nelson** - https://frontendmasters.com/courses/functional-javascript/
